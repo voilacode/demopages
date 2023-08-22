@@ -1,0 +1,9 @@
+body {
+    background-color: rgb(184, 206, 220);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.bg {
+    background-color: rgb(190, 233, 233);
+    padding: 20px;
+}
